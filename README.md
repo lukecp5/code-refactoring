@@ -13,4 +13,4 @@ The live website is located at: https://lukecp5.github.io/code-refactoring/
 ___
 ### Screenshot 
 
-[<img src="https://github.com/lukecp5/code-refactoring/blob/main/assets/images/screenshot.png" width="1440">](/uri "https://github.com/lukecp5/code-refactoring/blob/main/assets/images/screenshot.png")
+<img src="https://github.com/lukecp5/code-refactoring/blob/main/assets/images/screenshot.png" width="1440">
